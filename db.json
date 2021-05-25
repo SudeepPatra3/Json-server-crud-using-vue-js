@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 5,
+      "first_name": "Roger",
+      "last_name": "Bacon",
+      "email": "rogerbacon12@yahoo.com"
+    },
+    {
+      "id": 6,
+      "first_name": "Fred",
+      "last_name": "Blair",
+      "email": "freddyb34@gmail.com"
+    },
+    {
+      "first_name": "sudeep",
+      "last_name": "patra",
+      "email": "sudeepkumar.patra3@gmail.com",
+      "id": 10
+    },
+    {
+      "first_name": "test",
+      "last_name": "tewt",
+      "email": "test2@gmail.com",
+      "id": 11
+    },
+    {
+      "first_name": "Ashis",
+      "last_name": "Ballmer",
+      "email": "lucyb56@gmail.com",
+      "id": 12
+    }
+  ]
+}
